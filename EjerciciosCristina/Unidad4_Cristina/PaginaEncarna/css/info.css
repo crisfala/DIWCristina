@@ -1,0 +1,156 @@
+/* 
+    Created on : 24-nov-2017, 20:04:56
+    Author     : cris
+*/
+*{
+    margin: 0px;
+    padding: 0px;
+ 
+}
+h1{
+    margin-left: 10px;
+    font-size: 30px;
+    text-shadow: 0.1em 0.1em 0.2em white;
+    padding-top:60px;
+    
+}
+nav >p{
+   margin-left: 10px;  
+}
+h2,h3,h4{
+    background-color:#4F69EF;
+    margin-bottom: 10px;
+    color:white;
+    padding: 10px;
+    -webkit-box-shadow: 9px 9px 18px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 9px 18px -7px rgba(0,0,0,0.75);
+    box-shadow: 9px 9px 18px -7px rgba(0,0,0,0.75);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}   
+
+nav{
+    width: 1050px;
+    height: 150px;
+    border-radius:10px; 
+    background:linear-gradient(to bottom, rgba(29,181,65,1)
+    0%, rgba(29,181,65,1) 73%, rgba(29,181,65,1) 87%, rgba(199,242,29,1) 100%);
+    margin-bottom: 15px;
+}
+nav #logo{
+     margin-left: 10px;
+    font-size: 30px;
+    text-shadow: 0.1em 0.1em 0.2em white;
+    padding-top:60px;
+    color:black;
+    text-decoration: none;
+}
+nav ul{
+    padding-right: 10px;
+}
+
+div.contenedor {
+  
+   width:1000px;
+   margin: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+#borde{
+     border-top:solid #349934;
+}
+header.cabecera{
+    background-color: #349934;
+}    
+
+#uno{
+    float: left;
+    width: 220px;
+    margin-right: 20px;
+    clear: both;
+  
+}
+section{
+    float: left;
+    width:520px;
+    margin:auto;
+}
+#dos{
+    float:right;
+    width: 180px;
+}
+
+footer{
+    clear: both;
+    margin-top: 20px;
+}
+
+li.nav{
+    display: inline;
+    float: right;
+    padding: 5px;
+    padding-right:10px;
+    padding-left:10px;
+    border-radius: 5px;
+    background: linear-gradient(to left,lightgreen,#F3FA5F,white,#F3FA5F,lightgreen);
+    margin-right: 5px;
+}
+
+ li.nav:active{
+    background: linear-gradient(to left,salmon,whitesmoke,salmon);
+}
+a{
+    color: green;
+}
+ #info1 span.info{
+    color: green;
+    font-size:90px;
+    background-color:#D8D9CD;  
+    background-image: url("../img/rellenoLogo.png");
+    text-align:center;
+}
+#cursos span.info{
+    color: green;
+    font-size:90px; 
+    background-color:#D8D9CD;  
+    background-image: url("../img/rellenoLogo.png");
+    text-align:center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#info1{text-align:center; }
+#cursos{text-align:center; }
+span.fecha{
+    float: right;
+}
+footer.esquinas{
+   /*position: absolute;*/
+  -moz-border-radius: 15px 15px 0px 0px;
+  border-radius: 15px 15px 0px 0px;
+  -webkit-border-radius: 15px 15px 0px 0px;
+  border: #3E9722 3px solid;
+  border-bottom: none;
+  width: 1000px;
+  height: 100px;
+  left: 0px;
+  margin-left: 5px;
+  padding: 20px 20px 0px 20px;
+  text-align: center;
+}
+#esquinas{
+  -moz-border-radius: 15px 15px 0px 0px;
+  border-radius: 15px 15px 0px 0px;
+  -webkit-border-radius: 15px 15px 0px 0px;
+  border: #3E9722 3px solid;
+  border-bottom: none;
+  width: 1000px;
+  height: 100px;
+  left: 0px;
+  margin-left: 5px;
+  padding: 20px 20px 0px 20px;
+}
+#pie{
+    margin-top: 30px;
+}
+

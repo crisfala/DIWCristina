@@ -1,0 +1,84 @@
+body{
+    font:0.75em/1.5em Giorgia,"Time New Roman",Senf;
+    color: #232121;
+    background-image: url(fondo.jpg);
+}
+
+.capitular{
+    float:left;
+    display: block;
+    width:36px;
+    height: 35px;
+    border-radius: 3px;
+    background :#232121;
+    margin-top:0;
+    margin-right: 5px;
+    margin-bottom:  0px;
+    margin-left: 0px;
+    font-size: 2.7em;
+    line-height:normal;
+    color: rgb(255,255,255);
+    text-transform:uppercase;
+    text-align:center;
+    -moz-border-radius:3px;
+    -webkit-border-radius: 3px;
+}
+
+article{
+    min-height:800px;
+    margin-top:0;
+    margin-right:0;
+    margin-bottom:18px;
+    margin-left: 20px;
+    display: block;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: #C30;
+    padding-left: 20px;    
+    
+}
+
+div.foto{
+    float: right;
+    width: 900px;
+    padding-left: 10px;
+    text-align: center;
+    clear: both;
+}
+
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.clear{
+    clear: both;
+}
+h1{
+    font-size: 3em;
+    font-style: italic;
+    line-height: 36px;
+    font-weight: normal;
+    padding-top: 9px;
+    padding-right: 0px;
+    padding-bottom: 9px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 2px;
+    margin-left: 0px;
+}
+p{
+    margin: 0 0 18px;
+}
+
+blockquote{
+    float: left;
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom:0px;
+    padding-left: 40px;
+    margin: 0px;
+}
+

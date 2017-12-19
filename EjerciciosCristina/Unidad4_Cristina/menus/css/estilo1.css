@@ -1,0 +1,17 @@
+body{
+    background-color: #f3f3f3;
+}
+
+ul{
+    padding: 0;
+    display: inline;
+    list-style-type:none;
+}
+li{
+    background-color: #e0e0e0;
+    border: solid 1px;
+    float: left;
+    text-decoration: none;
+    padding:2px;
+    border-color: #cacaca;
+}

@@ -1,0 +1,13 @@
+img.imagen{
+    border: solid 2px;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    float: left;
+}
+
+#contenedor{
+    width:800px;
+    height: auto;
+    display: inline;
+}

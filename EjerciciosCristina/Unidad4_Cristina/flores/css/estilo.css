@@ -1,0 +1,55 @@
+div{
+ width: 95%;
+}
+section{
+    margin-top: 20px;
+    float:left;
+    width: 13%;
+    height: 100px;
+    margin-left: 20px;
+}
+p{
+    margin: auto 0;
+    font-size: 9px;
+    margin-left: 80px;
+}
+img{
+    border:solid 3px #808080;
+    width: 100%;
+    margin-left: 50px;
+    border-radius: 20px;
+    background-size: 25px 50px;
+    
+}
+
+img:hover{ 
+-moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1)
+
+}
+hr{
+    border-bottom: dotted;
+    border-top:none;
+}
+
+footer{
+    clear: both;
+    margin-top: 400px;
+}
+header{
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+}
+p.cabeza{
+      box-shadow: 10px 10px 5px 0px rgba(32,104,212,1);
+      padding: 20px;
+       width: 500px;
+      text-align: center;
+      border-radius: 20px;
+      background: linear-gradient(to bottom, rgba(12,43,240,1) 0%, rgba(101,170,230,1) 69%, rgba(27,170,222,1) 100%);
+      margin: 0 auto;
+}

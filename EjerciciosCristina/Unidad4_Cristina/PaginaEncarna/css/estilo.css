@@ -1,0 +1,161 @@
+*{
+    margin: 0px;
+    padding: 0px;
+ 
+}
+h1{
+    margin-left: 10px;
+    font-size: 30px;
+    text-shadow: 0.1em 0.1em 0.2em white;
+    padding-top:60px;
+    
+}
+nav >p{
+   margin-left: 10px;  
+}
+h2,h3,h4{
+    background-color:#4F69EF;
+    margin-bottom: 10px;
+    color:white;
+    padding: 10px;
+    -webkit-box-shadow: 9px 9px 18px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 9px 18px -7px rgba(0,0,0,0.75);
+    box-shadow: 9px 9px 18px -7px rgba(0,0,0,0.75);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}   
+
+nav{
+    width: 1050px;
+    height: 150px;
+    border-radius:10px; 
+    background:linear-gradient(to bottom, rgba(29,181,65,1)
+    0%, rgba(29,181,65,1) 73%, rgba(29,181,65,1) 87%, rgba(199,242,29,1) 100%);
+    margin-bottom: 15px;
+}
+nav ul{
+    padding-right: 10px;
+}
+
+div.contendor {
+  
+   width:1000px;
+   margin: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+#borde{
+     border-top:solid #349934;
+}
+header.cabecera{
+    background-color: #349934;
+}    
+
+#uno{
+    float: left;
+    width: 220px;
+    margin-right: 20px;
+    clear: both;
+  
+}
+section{
+    float: left;
+    width:520px;
+    margin:auto;
+}
+#dos{
+    float:right;
+    width: 180px;
+}
+
+footer{
+    clear: both;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+li.nav{
+    display: inline;
+    float: right;
+    padding: 5px;
+    padding-right:10px;
+    padding-left:10px;
+    border-radius: 5px;
+    background: linear-gradient(to left,lightgreen,#F3FA5F,white,#F3FA5F,lightgreen);
+    margin-right: 5px;
+}
+
+ li.nav:active{
+    background: linear-gradient(to left,salmon,whitesmoke,salmon);
+}
+a{
+    color: green;
+}
+ p span.fp{
+    color: green;
+    font-size:50px;
+    background-color:#D8D9CD;  
+    background-image: url("../img/rellenoLogo.png");
+    text-align: justify;
+    float: left;
+    margin-right: 20px; 
+    margin-left: 10px;
+}
+span.fecha{
+    float: right;
+}
+hr{
+    border: dashed 1px;
+    border-left: none;
+    border-top:none;
+    border-right: none;
+    margin-top: 20px;
+    
+}
+footer.esquinas{
+   /*position: absolute;*/
+  -moz-border-radius: 15px 15px 0px 0px;
+  border-radius: 15px 15px 0px 0px;
+  -webkit-border-radius: 15px 15px 0px 0px;
+  border: #3E9722 3px solid;
+  border-bottom: none;
+  width: 1000px;
+  height: 100px;
+  left: 0px;
+  margin-left: 5px;
+  padding: 20px 20px 0px 20px;
+  text-align: center;
+}
+#idli > li{
+    color:#349934;
+    margin-left: 30px; 
+}
+div.imCentro{
+    margin-top: 10px;
+    text-align: center;
+}
+ol.listaOr{
+   margin-left:20px 
+}
+
+p.tecycon{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#esquinas{
+  -moz-border-radius: 15px 15px 0px 0px;
+  border-radius: 15px 15px 0px 0px;
+  -webkit-border-radius: 15px 15px 0px 0px;
+  border: #3E9722 3px solid;
+  border-bottom: none;
+  width: 1000px;
+  height: 100px;
+  left: 0px;
+  margin-left: 5px;
+  padding: 20px 20px 0px 20px;
+}
+#pie{
+    margin-top: 30px;
+}

@@ -1,0 +1,38 @@
+
+#amarillo{
+    font-size: 11px;
+    background-color:#9fff9f;
+    float: left;
+    width:100px;
+    height:70px;
+    
+}
+#verde{
+    font-size: 11px;
+    background-color: #ffff80;
+    float: left;
+    height:70px;
+    width:100px;
+}
+#azul{
+    font-size: 11px;
+    background-color: #aecdce;
+    height:70px;
+    width:100px;
+    position: absolute;
+    left:130px;
+    top:50px;
+}
+#contenedor{
+    width:auto;
+    height:570px;
+}
+#naranja{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 50px;
+  background-color: #ffa851;
+  width:100%;
+
+}

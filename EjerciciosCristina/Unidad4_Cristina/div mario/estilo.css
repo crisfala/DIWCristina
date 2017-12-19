@@ -1,0 +1,23 @@
+/* 
+    Created on : 30-nov-2017, 10:40:46
+    Author     : daw2
+*/
+div.anterior{
+    height: 150px;
+    width: 200px;
+    border:2px solid blue;
+    margin: 20px;
+    padding: 10px; 
+    background: url("img/f01.png") bottom repeat-x ,url("img/f02.png")bottom left no-repeat,url("img/f03.png")top repeat-x,lightcyan;
+}
+
+div.muestra{
+    height: 300px;
+    width: 400px;
+    border:5px solid red;
+    margin: 20px;
+    padding: 20px;
+    background: url("img/f01.png") bottom repeat-x ,url("img/f02.png")bottom left no-repeat,url("img/f03.png")top repeat-x,lightcyan;
+    
+}
+

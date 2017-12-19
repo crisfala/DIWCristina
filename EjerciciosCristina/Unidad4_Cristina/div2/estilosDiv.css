@@ -1,0 +1,23 @@
+
+#verde{
+    background-color:#9fff9f;
+    float: left;
+    width: 300px;
+    height: 150px;
+    
+}
+#amarillo{
+    background-color: #ffff80;
+    float: left;
+    height:500px;
+    width:950px;
+}
+#gris{
+    clear: both;
+    background-color: #aecdce;
+    height:50px;
+}
+#contenedor{
+    width:1250px;
+    height: auto;
+}

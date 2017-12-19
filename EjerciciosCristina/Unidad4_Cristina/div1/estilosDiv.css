@@ -1,0 +1,16 @@
+#uno{
+    background-color: #ffff8e;
+    width: 500px;
+    height: 500px;
+}
+#dos{
+    float:left;
+    width: 200px;
+    height: 100px;
+    background-color: #9fff9f;
+}
+#tres{
+    background-color: #aecdce;
+    width: 200px;
+    height: 200px;
+}
